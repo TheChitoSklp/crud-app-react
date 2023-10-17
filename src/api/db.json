@@ -1,0 +1,39 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "name": "Seiya",
+      "constelacion": "Pegaso",
+      "armor": "Armadura de Bronce de Pegaso",
+      "description": "El protagonista principal de la serie, es valiente y determinado."
+    },
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constelacion": "Dragón",
+      "armor": "Armadura de Bronce de Dragón",
+      "description": "Es conocido por su gran fuerza y resistencia."
+    },
+    {
+      "id": 3,
+      "name": "Hyoga",
+      "constelacion": "Cisne",
+      "armor": "Armadura de Bronce de Cisne",
+      "description": "Controla el hielo y es un estratega brillante."
+    },
+    {
+      "id": 4,
+      "name": "Shun",
+      "constelacion": "Andrómeda",
+      "armor": "Armadura de Bronce de Andrómeda",
+      "description": "Es gentil y compasivo, posee cadenas que puede usar como armas."
+    },
+    {
+      "id": 5,
+      "name": "Ikki",
+      "constelacion": "Fénix",
+      "armor": "Armadura de Bronce de Fénix",
+      "description": "Es el hermano de Shun y es conocido por su temperamento explosivo."
+    }
+  ]
+}
